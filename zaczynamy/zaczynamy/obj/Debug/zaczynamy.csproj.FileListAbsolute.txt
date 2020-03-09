@@ -1,0 +1,9 @@
+C:\Users\Ikrorin\source\repos\zaczynamy\zaczynamy\bin\Debug\zaczynamy.exe.config
+C:\Users\Ikrorin\source\repos\zaczynamy\zaczynamy\bin\Debug\zaczynamy.exe
+C:\Users\Ikrorin\source\repos\zaczynamy\zaczynamy\bin\Debug\zaczynamy.pdb
+C:\Users\Ikrorin\source\repos\zaczynamy\zaczynamy\obj\Debug\zaczynamy.csprojAssemblyReference.cache
+C:\Users\Ikrorin\source\repos\zaczynamy\zaczynamy\obj\Debug\zaczynamy.Form1.resources
+C:\Users\Ikrorin\source\repos\zaczynamy\zaczynamy\obj\Debug\zaczynamy.Properties.Resources.resources
+C:\Users\Ikrorin\source\repos\zaczynamy\zaczynamy\obj\Debug\zaczynamy.csproj.GenerateResource.cache
+C:\Users\Ikrorin\source\repos\zaczynamy\zaczynamy\obj\Debug\zaczynamy.exe
+C:\Users\Ikrorin\source\repos\zaczynamy\zaczynamy\obj\Debug\zaczynamy.pdb
