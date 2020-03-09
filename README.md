@@ -1,0 +1,2 @@
+# obrazek
+zmiaan jasnosci obrazku
